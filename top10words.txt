@@ -1,0 +1,10 @@
+say 533
+alice 398
+think 138
+little 128
+get 113
+know 107
+one 104
+look 103
+come 97
+begin 96
